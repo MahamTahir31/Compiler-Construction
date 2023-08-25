@@ -1,0 +1,6 @@
+<- multi ->
+char $a = '\n';
+$b = "This is \' \\";
+'\\213';
+"\mcvnk838 $kdf "$a.45.$b.9
+.6

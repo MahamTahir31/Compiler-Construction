@@ -1,0 +1,19 @@
+DataType, char, Line 2
+ID, $a, Line 2
+=, =, Line 2
+;, ;, Line 2
+ID, $b, Line 3
+=, =, Line 3
+string_const, This is \' \\, Line 3
+;, ;, Line 3
+int_const, 213, Line 4
+;, ;, Line 4
+string_const, \mcvnk838 $kdf , Line 5
+ID, $a, Line 5
+., ., Line 5
+int_const, 45, Line 5
+., ., Line 5
+ID, $b, Line 5
+., ., Line 5
+int_const, 9, Line 5
+float_const, .6, Line 6
